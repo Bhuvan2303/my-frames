@@ -17,7 +17,7 @@ import {
   X,
 } from "lucide-react";
 
-const heroImage = "/photos/my-frames-hero.jpg";
+const heroImage = "/photos/my-frames-hero.webp";
 
 type Filter = "everything" | "places" | "people" | "details";
 
@@ -27,7 +27,7 @@ const frames = [
     category: "places" as Filter,
     subtitle: "Places that stayed with me",
     title: "Out there",
-    image: "/photos/my-frames-place.jpg",
+    image: "/photos/my-frames-place.webp",
     copy: "The roads, corners, coastlines, and quiet views that made me stop for a second longer than usual.",
   },
   {
@@ -35,7 +35,7 @@ const frames = [
     category: "people" as Filter,
     subtitle: "The people in the frame",
     title: "Close enough",
-    image: "/photos/my-frames-people.jpg",
+    image: "/photos/my-frames-people.webp",
     copy: "A collection of faces, gestures, and small expressions I never want to forget.",
   },
   {
@@ -43,7 +43,7 @@ const frames = [
     category: "details" as Filter,
     subtitle: "The things I notice",
     title: "In between",
-    image: "/photos/my-frames-detail.jpg",
+    image: "/photos/my-frames-detail.webp",
     copy: "Light on a table. A shadow on the wall. The ordinary details that quietly become a memory.",
   },
 ];

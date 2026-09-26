@@ -45,5 +45,5 @@ In the GitHub repository settings, open **Pages** and set the source to **GitHub
 ## Photo tips
 
 - Keep website images around 1–3 MB when possible.
-- Use JPG or WebP for photographs.
+- Use WebP for photographs when possible; JPG is also supported.
 - Keep original full-resolution files backed up outside GitHub.
