@@ -3,3 +3,4 @@ dist
 .vite
 .DS_Store
 *.log
+client/public/photos/*.mp4
